@@ -120,7 +120,7 @@ class MyBL(BoxLayout):
     @mainthread
     def set_data_label(self, data):
         self.data_label += str(data) + "\n"
-#kjdiytd
+#kjdiytd oiyelfywqief
 
 class MyApp(App):
     running = True
